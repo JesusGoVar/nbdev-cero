@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-cero"
+  site-url: "https://JesusGoVar.github.io/nbdev-cero"
+  description: "pruebas herramienta nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/JesusGoVar/nbdev-cero"
